@@ -1,0 +1,60 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "poster1": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC%20KINGDOM%20PREORDER_STANDARD%20EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg",
+            "title": "Assassin's Creed® Valhalla",
+            "devs": "Ubisoft Montreal",
+            "price": {
+                "sale": "75%",
+                "old": "$28.99",
+                "new": "$7.24"
+            }
+        },
+        {
+            "id": 2,
+            "poster1": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg",
+            "title": "Red Dead Redemption 2",
+            "devs": "Rockstar Games",
+            "price": {
+                "sale": "67%",
+                "old": "$219.00",
+                "new": "$72.27"
+            }
+        },
+        {
+            "id": 3,
+            "poster1": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S1_2560x1440-f9e8bb0209bb9ec26636838fbc3dcd85",
+            "title": "STAR WARS Jedi: Survivor™",
+            "devs": "Respawn Entertainment",
+            "price": {
+                "sale": "25%",
+                "old": "$239",
+                "new": "$179.25"
+            }
+        },
+        {
+            "id": 4,
+            "poster1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S3_2560x1440-f1dcd15207f091674615ccb4bd9dc3c7",
+            "title": "Dying Light 2 Stay Human",
+            "devs": "Techland",
+            "price": {
+                "sale": "50%",
+                "old": "$249",
+                "new": "$124.50"
+            }
+        },
+        {
+            "id": 5,
+            "poster1": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Landscape_2560x1440-2560x1440-827a9d1823ad230a0ea5a2efc7936370.jpg",
+            "title": "Far Cry® 6",
+            "devs": "Ubisoft Toronto",
+            "price": {
+                "sale": "75%",
+                "old": "$189",
+                "new": "$47.25"
+            }
+        }
+    ]
+}
+
