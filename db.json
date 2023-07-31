@@ -313,6 +313,84 @@
                 "old": null,
                 "new": "$61.99"
             }
+        },
+        {
+            "id": 25,
+            "type": "popular",
+            "poster1": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
+            "poster2": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
+            "title": "Cyberpunk 2077",
+            "devs": "CD PROJEKT RED",
+            "price": {
+                "sale": null,
+                "old": null,
+                "new": "$213.99"
+            }
+        },
+        {
+            "id": 26,
+            "type": "popular",
+            "poster1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S1_2560x1440-3bd5b3c4c11d46cc2dcb06bdf2f77627",
+            "poster2": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S2_1200x1600-a73f93bb560142e08d56db4c2bfdb03c",
+            "title": "Rise of the Tomb Raider",
+            "devs": "Crystal Dynamics",
+            "price": {
+                "sale": null,
+                "old": null,
+                "new": "$190"
+            }
+        },
+        {
+            "id": 27,
+            "type": "popular",
+            "poster1": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808",
+            "poster2": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2",
+            "title": "Marvel's Spider-Man",
+            "devs": "Insomniac Games",
+            "price": {
+                "sale": null,
+                "old": null,
+                "new": "$249"
+            }
+        },
+        {
+            "id": 28,
+            "type": "popular",
+            "poster1": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f",
+            "poster2": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f",
+            "title": "The Witcher 3: Wild Hunt",
+            "devs": "CD PROJEKT RED",
+            "price": {
+                "sale": null,
+                "old": null,
+                "new": "$122.99"
+            }
+        },
+        {
+            "id": 29,
+            "type": "popular",
+            "poster1": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped%20Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg",
+            "poster2": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+            "title": "Grand Theft Auto V",
+            "devs": "Rockstar Games",
+            "price": {
+                "sale": "75%",
+                "old": "$189",
+                "new": "$47.25"
+            }
+        },
+        {
+            "id": 30,
+            "type": "popular",
+            "poster1": "https://cdn1.epicgames.com/offer/petunia/metro_2033_epic_tile_2560x1440_2560x1440-c488c769949603c48c185a6f0800e9ba",
+            "poster2": "https://e.snmc.io/lk/l/x/374f8bea2ddf3cb8907352b98a6cbb9c/10770362",
+            "title": "Metro: 2033 Redux",
+            "devs": "4A Games",
+            "price": {
+                "sale": "90%",
+                "old": "$40.99",
+                "new": "$4.09"
+            }
         }
     ]
 }
