@@ -72,6 +72,71 @@
                 "old": "$189",
                 "new": "$28.35"
             }
+        },
+        {
+            "id": 7,
+            "type": "discount",
+            "poster1": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S1_2560x1440-1ba560d3f228fe5c7341777a6ac9abb7",
+            "poster2": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24",
+            "title": "Saints Row",
+            "devs": "Deep Silver Volition",
+            "price": {
+                "sale": "60%",
+                "old": "$105",
+                "new": "$42"
+            }
+        },
+        {
+            "id": 8,
+            "type": "discount",
+            "poster1": "https://cdn2.unrealengine.com/egs-footballmanager2021-sportsinteractive-s1-2560x1440-070457508.jpg",
+            "poster2": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
+            "title": "Football Manager 2021",
+            "devs": "Sports Interactive",
+            "price": {
+                "sale": "75%",
+                "old": "$239",
+                "new": "$59.75"
+            }
+        },
+        {
+            "id": 9,
+            "type": "discount",
+            "poster1": "https://cdn2.unrealengine.com/tetra-preorder-standard-edition-epic-store-landscape-2560x1440-2560x1440-430970417.jpg",
+            "poster2": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png",
+            "title": "Far Cry® 6",
+            "devs": "Ubisoft Toronto",
+            "price": {
+                "sale": "75%",
+                "old": "$189",
+                "new": "$47.25"
+            }
+        },
+        {
+            "id": 10,
+            "type": "discount",
+            "poster1": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S1_2560x1440-4fd7701f78a23c971e429093fc1f6341",
+            "poster2": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-ed71f5e6188d8c4c411947f4b1fc59bc",
+            "title": "Battlefield™ 2042",
+            "devs": "DICE",
+            "price": {
+                "sale": "70%",
+                "old": "$199",
+                "new": "$59.70"
+            }
+        },
+        {
+            "id": 11,
+            "type": "discount",
+            "poster1": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S1-2560x1440-3dc68a07cace02e826ad42a2de5279b0.jpg",
+            "poster2": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
+            "title": "STAR WARS™ Battlefront™ II",
+            "devs": "DICE",
+            "price": {
+                "sale": "75%",
+                "old": "$159",
+                "new": "$39.75"
+            }
         }
     ]
 }
