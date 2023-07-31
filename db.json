@@ -145,8 +145,6 @@
             "title": "Borderlands 3",
             "devs": "Gearbox Software",
             "price": {
-                "sale": "",
-                "old": "",
                 "new": "Free"
             }
         },
@@ -157,8 +155,6 @@
             "title": "STAR WARS™ Battlefront™",
             "devs": "DICE",
             "price": {
-                "sale": "",
-                "old": "",
                 "new": "Free"
             }
         },
@@ -172,7 +168,7 @@
             "price": {
                 "sale": "",
                 "old": "",
-                "new": "306"
+                "new": "$306"
             }
         },
         {
@@ -185,7 +181,7 @@
             "price": {
                 "sale": "",
                 "old": "",
-                "new": "169"
+                "new": "$169"
             }
         },
         {
@@ -198,7 +194,7 @@
             "price": {
                 "sale": "",
                 "old": "",
-                "new": "199"
+                "new": "$199"
             }
         },
         {
@@ -211,7 +207,7 @@
             "price": {
                 "sale": "",
                 "old": "",
-                "new": "180"
+                "new": "$180"
             }
         },
         {
@@ -224,7 +220,7 @@
             "price": {
                 "sale": "",
                 "old": "",
-                "new": "170"
+                "new": "$170"
             }
         },
         {
@@ -237,7 +233,7 @@
             "price": {
                 "sale": "",
                 "old": "",
-                "new": "27.99"
+                "new": "$27.99"
             }
         }
     ]
