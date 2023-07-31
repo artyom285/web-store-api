@@ -166,8 +166,8 @@
             "title": "Mortal Kombat 1",
             "devs": "NetherRealm Studios",
             "price": {
-                "sale": "",
-                "old": "",
+                "sale": null,
+                "old": null,
                 "new": "$306"
             }
         },
@@ -179,8 +179,8 @@
             "title": "Assassin's Creed® Mirage",
             "devs": "Ubisoft Montreal",
             "price": {
-                "sale": "",
-                "old": "",
+                "sale": null,
+                "old": null,
                 "new": "$169"
             }
         },
@@ -192,8 +192,8 @@
             "title": "Lords of the Fallen",
             "devs": "HEXWORKS",
             "price": {
-                "sale": "",
-                "old": "",
+                "sale": null,
+                "old": null,
                 "new": "$199"
             }
         },
@@ -205,8 +205,8 @@
             "title": "F1® Manager 2023",
             "devs": "Frontier Developments",
             "price": {
-                "sale": "",
-                "old": "",
+                "sale": null,
+                "old": null,
                 "new": "$180"
             }
         },
@@ -218,8 +218,8 @@
             "title": "Alan Wake 2",
             "devs": "Remedy Entertainment",
             "price": {
-                "sale": "",
-                "old": "",
+                "sale": null,
+                "old": null,
                 "new": "$170"
             }
         },
@@ -231,8 +231,8 @@
             "title": "Remnant: From the Ashes",
             "devs": "Gunfire Games",
             "price": {
-                "sale": "",
-                "old": "",
+                "sale": null,
+                "old": null,
                 "new": "$27.99"
             }
         }
