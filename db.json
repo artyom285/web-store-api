@@ -224,7 +224,7 @@
             }
         },
         {
-            "id": 18,
+            "id": 19,
             "type": "new",
             "poster1": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg",
             "poster2": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
@@ -237,7 +237,7 @@
             }
         },
         {
-            "id": 19,
+            "id": 20,
             "type": "trend",
             "poster1": "https://cdn1.epicgames.com/offer/fn/25BR_S25_EGS_Launcher_Blade_2560x1440_2560x1440-ce7ec00a4a4e53bfe089a2afa1f03acb",
             "poster2": "https://images.igdb.com/igdb/image/upload/t_original/co3uw1.jpg",
@@ -250,7 +250,7 @@
             }
         },
         {
-            "id": 20,
+            "id": 21,
             "type": "trend",
             "poster1": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-91dc9490f14942ad5eeef278eb3ef4a6",
             "poster2": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-b911781672bac23a556586fb92c42983",
@@ -263,7 +263,7 @@
             }
         },
         {
-            "id": 21,
+            "id": 22,
             "type": "trend",
             "poster1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S1_2560x1440-bf3c5da7b0239523117b1ff2bba16dc9",
             "poster2": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S2_1200x1600-90a094bdcb6824eefe84c60ef0c4a612",
@@ -276,7 +276,7 @@
             }
         },
         {
-            "id": 22,
+            "id": 23,
             "type": "trend",
             "poster1": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7",
             "poster2": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503",
@@ -289,7 +289,7 @@
             }
         },
         {
-            "id": 23,
+            "id": 24,
             "type": "trend",
             "poster1": "https://cdn2.unrealengine.com/Diesel%2Fblog%2Fcontrol-pre-purchase%2FControl_GDC_News_2560x1440-2560x1440-d6bed801c1797a2a9062faaf82c7eafcc6d7c7a2.jpg",
             "poster2": "https://cdn1.epicgames.com/offer/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
@@ -302,7 +302,7 @@
             }
         },
         {
-            "id": 24,
+            "id": 25,
             "type": "trend",
             "poster1": "https://external-preview.redd.it/MMS96qMSDoIJyLXggggCkPL9YGhmjS4WtRMh6NvdsUI.jpg?auto=webp&s=50adc8e85b999f688358e679ad969d2fabc2962a",
             "poster2": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49",
@@ -315,7 +315,7 @@
             }
         },
         {
-            "id": 25,
+            "id": 26,
             "type": "popular",
             "poster1": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
             "poster2": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
@@ -328,7 +328,7 @@
             }
         },
         {
-            "id": 26,
+            "id": 27,
             "type": "popular",
             "poster1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S1_2560x1440-3bd5b3c4c11d46cc2dcb06bdf2f77627",
             "poster2": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S2_1200x1600-a73f93bb560142e08d56db4c2bfdb03c",
@@ -341,7 +341,7 @@
             }
         },
         {
-            "id": 27,
+            "id": 28,
             "type": "popular",
             "poster1": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808",
             "poster2": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2",
@@ -354,7 +354,7 @@
             }
         },
         {
-            "id": 28,
+            "id": 29,
             "type": "popular",
             "poster1": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f",
             "poster2": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f",
@@ -367,7 +367,7 @@
             }
         },
         {
-            "id": 29,
+            "id": 30,
             "type": "popular",
             "poster1": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped%20Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg",
             "poster2": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
@@ -380,7 +380,7 @@
             }
         },
         {
-            "id": 30,
+            "id": 31,
             "type": "popular",
             "poster1": "https://cdn1.epicgames.com/offer/petunia/metro_2033_epic_tile_2560x1440_2560x1440-c488c769949603c48c185a6f0800e9ba",
             "poster2": "https://e.snmc.io/lk/l/x/374f8bea2ddf3cb8907352b98a6cbb9c/10770362",
