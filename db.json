@@ -8,7 +8,7 @@
             "devs": "Ubisoft Montreal",
             "publisher": "Ubisoft",
             "release": "11/17/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "75%",
                 "old": "$28.99",
@@ -23,7 +23,7 @@
             "devs": "Rockstar Games",
             "publisher": "Rockstar Games",
             "release": "11/05/19",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "67%",
                 "old": "$219.00",
@@ -38,7 +38,7 @@
             "devs": "Respawn Entertainment",
             "publisher": "Electronic Arts",
             "release": "04/28/23",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "25%",
                 "old": "$239",
@@ -53,7 +53,7 @@
             "devs": "Techland",
             "publisher": "Techland",
             "release": "02/04/22",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "50%",
                 "old": "$249",
@@ -68,7 +68,7 @@
             "devs": "Ubisoft Toronto",
             "publisher": "Ubisoft",
             "release": "11/29/22",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "75%",
                 "old": "$189",
@@ -84,7 +84,7 @@
             "devs": "Ubisoft Toronto",
             "publisher": "Ubisoft",
             "release": "10/29/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "85%",
                 "old": "$189",
@@ -100,7 +100,7 @@
             "devs": "Deep Silver Volition",
             "publisher": "Deep Silver",
             "release": "08/23/22",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "60%",
                 "old": "$105",
@@ -116,7 +116,7 @@
             "devs": "Sports Interactive",
             "publisher": "SEGA of Europe",
             "release": "11/24/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "75%",
                 "old": "$239",
@@ -132,7 +132,7 @@
             "devs": "Ubisoft Toronto",
             "publisher": "Ubisoft",
             "release": "11/29/22",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "75%",
                 "old": "$189",
@@ -148,7 +148,7 @@
             "devs": "DICE",
             "publisher": "Electronic Arts",
             "release": "11/19/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "70%",
                 "old": "$199",
@@ -164,7 +164,7 @@
             "devs": "DICE",
             "publisher": "Electronic Arts",
             "release": "01/15/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "75%",
                 "old": "$159",
@@ -179,7 +179,7 @@
             "devs": "Gearbox Software",
             "publisher": "2K",
             "release": "09/13/19",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "new": "Free"
             }
@@ -192,7 +192,7 @@
             "devs": "DICE",
             "publisher": "Electronic Arts",
             "release": "01/15/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "new": "Free"
             }
@@ -206,7 +206,7 @@
             "devs": "NetherRealm Studios",
             "publisher": "Warner Bros. Games",
             "release": "09/20/23",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -222,7 +222,7 @@
             "devs": "Ubisoft Montreal",
             "publisher": "Ubisoft",
             "release": "10/12/23",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -238,7 +238,7 @@
             "devs": "HEXWORKS",
             "publisher": "CI Games",
             "release": "10/13/23",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -254,7 +254,7 @@
             "devs": "Frontier Developments",
             "publisher": "Frontier Developments",
             "release": "07/31/23",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -270,7 +270,7 @@
             "devs": "Remedy Entertainment",
             "publisher": "Epic Games Publishing",
             "release": "10/18/23",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -286,7 +286,7 @@
             "devs": "Gunfire Games",
             "publisher": "Gearbox Publishing",
             "release": "08/13/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -302,7 +302,7 @@
             "devs": "Epic Games",
             "publisher": "Epic Games",
             "release": "07/21/17",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -318,7 +318,7 @@
             "devs": "Riot Games",
             "publisher": "Riot Games",
             "release": "11/05/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -334,7 +334,7 @@
             "devs": "Allods Team",
             "publisher": "MY.GAMES",
             "release": "06/29/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -350,7 +350,7 @@
             "devs": "Behaviour Interactive",
             "publisher": "Behaviour Interactive",
             "release": "12/10/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "85%",
                 "old": "$189",
@@ -366,7 +366,7 @@
             "devs": "Remedy Entertainment",
             "publisher": "505 Games",
             "release": "08/27/19",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "70%",
                 "old": "$123.99",
@@ -382,7 +382,7 @@
             "devs": "Ubisoft",
             "publisher": "Ubisoft",
             "release": "12/02/22",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -398,7 +398,7 @@
             "devs": "CD PROJEKT RED",
             "publisher": "CD PROJEKT RED",
             "release": "12/10/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -414,7 +414,7 @@
             "devs": "Crystal Dynamics",
             "publisher": "Square Enix",
             "release": "10/18/21",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -430,7 +430,7 @@
             "devs": "Insomniac Games",
             "publisher": "PlayStation PC LLC",
             "release": "08/12/22",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -446,7 +446,7 @@
             "devs": "CD PROJEKT RED",
             "publisher": "CD PROJEKT S.A.",
             "release": "05/14/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": null,
                 "old": null,
@@ -462,7 +462,7 @@
             "devs": "Rockstar Games",
             "publisher": "Rockstar Games",
             "release": "05/14/20",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "75%",
                 "old": "$189",
@@ -478,7 +478,7 @@
             "devs": "4A Games",
             "publisher": "Deep Silver",
             "release": "03/16/10",
-            "platform": "<BiLogoWindows />",
+            "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "sale": "90%",
                 "old": "$40.99",
