@@ -15,6 +15,11 @@
                 "sale": "75%",
                 "old": "$28.99",
                 "new": "$7.24"
+            },
+            "gallery": {
+                "img1": "https://external-preview.redd.it/A6qu0_TsORgCI2csfGh4Rm5Nn_ZxhYkDQ5oWX5lONU8.jpg?auto=webp&s=5798c258c15ae4114afb97199b4b6da5fb035479",
+                "img2": "https://cdn.wccftech.com/wp-content/uploads/2022/12/ACV_Screenshot_SharedHistory_Assassination_20221201_6pm_CET_Paris-scaled.jpg",
+                "img3": "https://www.gamebyte.com/wp-content/uploads/2021/09/f8d12478-ac-valhalla.jpg"
             }
         },
         {
@@ -32,6 +37,11 @@
                 "sale": "67%",
                 "old": "$219.00",
                 "new": "$72.27"
+            },
+            "gallery": {
+                "img1": "https://cdn.wccftech.com/wp-content/uploads/2018/10/RDR2_Review_19-scaled.jpg",
+                "img2": "https://assets.rockpapershotgun.com/images/2019/11/Red-Dead-Redemption-2-first-person.png",
+                "img3": "https://cdn.guidestash.com/wp-content/uploads/2019/10/08215837/Red-Dead-Redemption-2-2-scaled.jpg"
             }
         },
         {
@@ -49,6 +59,11 @@
                 "sale": "25%",
                 "old": "$239",
                 "new": "$179.25"
+            },
+            "gallery": {
+                "img1": "https://dotesports.com/wp-content/uploads/2023/04/star-wars-jedi-fallen-order.jpg",
+                "img2": "https://i.redd.it/inquisitor-cal-in-survivor-v0-8jpcdif8iy8b1.jpg?width=2560&format=pjpg&auto=webp&s=a7b5042cf900e5566469d95139552f79fb7fbfb4",
+                "img3": "https://cdn.wccftech.com/wp-content/uploads/2023/05/STAR-WARS-Jedi_-Survivor-Fractured-Tradition-header-scaled.jpg"
             }
         },
         {
@@ -66,6 +81,11 @@
                 "sale": "50%",
                 "old": "$249",
                 "new": "$124.50"
+            },
+            "gallery": {
+                "img1": "https://i.redd.it/knnkwveserf81.png",
+                "img2": "https://www.futuregamereleases.com/wp-content/uploads/2019/08/dying-light-2.jpg",
+                "img3": "https://stevivor.com/wp-content/uploads/2022/01/Dying-Light-2-10-scaled.webp"
             }
         },
         {
@@ -83,6 +103,11 @@
                 "sale": "75%",
                 "old": "$189",
                 "new": "$47.25"
+            },
+            "gallery": {
+                "img1": "https://i.redd.it/wb2i170pnhs71.png",
+                "img2": "https://external-preview.redd.it/3Bzq1KpU9yK3xPuLtgBXG862Cq3fuQFmBVEVJExL-rc.png?format=pjpg&auto=webp&s=0e577616747507527c1e1d3912d301e0dcac0e3f",
+                "img3": "https://i.redd.it/0a51hibe5fs71.jpg"
             }
         },
         {
@@ -100,6 +125,11 @@
                 "sale": "85%",
                 "old": "$189",
                 "new": "$28.35"
+            },
+            "gallery": {
+                "img1": "https://preview.redd.it/2xsps6ejbuv51.png?width=2560&format=png&auto=webp&s=7f127ce368c320615774b00e4605adb9b86a9eb5",
+                "img2": "https://i.redd.it/jgkky7rg2uu71.jpg",
+                "img3": "https://preview.redd.it/b42la5n5cxt81.png?auto=webp&s=d4ab6758879626ecd9aaa699e167bafa6afb39ed"
             }
         },
         {
@@ -117,6 +147,11 @@
                 "sale": "60%",
                 "old": "$105",
                 "new": "$42"
+            },
+            "gallery": {
+                "img1": "https://krispitech.com/wp-content/uploads/2022/12/xc8YCkVZX5tc9fC2ctnkZY-scaled.jpg",
+                "img2": "https://gamingbolt.com/wp-content/uploads/2021/08/saints-row-image-7-scaled.jpg",
+                "img3": "https://gamingbolt.com/wp-content/uploads/2021/08/saints-row-image-4-scaled.jpg"
             }
         },
         {
@@ -134,6 +169,11 @@
                 "sale": "75%",
                 "old": "$239",
                 "new": "$59.75"
+            },
+            "gallery": {
+                "img1": "https://i.redd.it/xyz5ctoj78o81.png",
+                "img2": "https://i.redd.it/yij99n7ozmo81.png",
+                "img3": "https://i.redd.it/z4ltzxku8cg71.png"
             }
         },
         {
@@ -151,6 +191,11 @@
                 "sale": "75%",
                 "old": "$189",
                 "new": "$47.25"
+            },
+            "gallery": {
+                "img1": "https://i.redd.it/wb2i170pnhs71.png",
+                "img2": "https://external-preview.redd.it/3Bzq1KpU9yK3xPuLtgBXG862Cq3fuQFmBVEVJExL-rc.png?format=pjpg&auto=webp&s=0e577616747507527c1e1d3912d301e0dcac0e3f",
+                "img3": "https://i.redd.it/0a51hibe5fs71.jpg"
             }
         },
         {
@@ -168,6 +213,11 @@
                 "sale": "70%",
                 "old": "$199",
                 "new": "$59.70"
+            },
+            "gallery": {
+                "img1": "https://external-preview.redd.it/EeJlvw0XR-Lank915FE4W9t9O-6I97uiD_menAxZXTo.png?format=pjpg&auto=webp&s=66a14aaca52a24e70bac8f46c08c0e1e22832986",
+                "img2": "https://preview.redd.it/one-more-month-and-specialists-will-be-reduced-into-bfv-v0-hk67hxg1pct91.png?auto=webp&s=b9e3a5fafa2195282b554024f4572b96602dd7be",
+                "img3": "https://i.redd.it/qb07kklfkjfb1.png"
             }
         },
         {
@@ -185,6 +235,11 @@
                 "sale": "75%",
                 "old": "$159",
                 "new": "$39.75"
+            },
+            "gallery": {
+                "img1": "https://images.hdqwalls.com/download/star-wars-battlefront-2-gameplay-j6-2560x1440.jpg",
+                "img2": "https://answers.ea.com/t5/image/serverpage/image-id/152322i94775741B1A6EED5?v=v2",
+                "img3": "https://images.hdqwalls.com/download/star-wars-battlefront-2-5k-kk-2560x1440.jpg"
             }
         },
         {
@@ -200,6 +255,11 @@
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "new": "Free"
+            },
+            "gallery": {
+                "img1": "https://external-preview.redd.it/4kVtDYNh8hakTSW_mk-18dPREGtIPyu5776rfTpKz8I.jpg?auto=webp&s=e73ac4a2881773f92c4f35dd7e460413df5673b4",
+                "img2": "https://i.redd.it/kwweb1lbpko81.png",
+                "img3": "https://preview.redd.it/hiding-and-listening-to-these-guys-was-hilarious-guns-love-v0-ymcedxq91qv91.png?auto=webp&s=0a898b38339812cea9630b6a002829d261e0bb90"
             }
         },
         {
@@ -215,6 +275,11 @@
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
                 "new": "Free"
+            },
+            "gallery": {
+                "img1": "https://images.hdqwalls.com/download/star-wars-battlefront-2-4k-0o-2560x1440.jpg",
+                "img2": "https://cdn.wccftech.com/wp-content/uploads/2015/11/starwarsbattlefront-2015-11-18-08-53-11-957.jpg",
+                "img3": "https://www.denofgeek.com/wp-content/uploads/2020/12/jedi-fallen-order-cal-kestis.jpg?fit=2560%2C1440"
             }
         },
         {
@@ -232,6 +297,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$306"
+            },
+            "gallery": {
+                "img1": "https://www.aroged.com/wp-content/uploads/2023/07/How-will-Mortal-Kombat-1-be-on-Nintendo-Switch-Ed-scaled.jpg",
+                "img2": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2023/06/Mortal-Kombat-1-14-scaled.jpg",
+                "img3": "https://www.soundspheremag.com/wp-content/migration/images/stories/Mortal-Kombat-1-gameplay-trailer-scaled-1.jpg"
             }
         },
         {
@@ -249,6 +319,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$169"
+            },
+            "gallery": {
+                "img1": "https://www.dsogaming.com/wp-content/uploads/2023/05/Assassins-Creed-Mirage-new-screenshots-scaled.jpg",
+                "img2": "https://i0.wp.com/highoncinemaa.com/wp-content/uploads/2023/05/Assassins-Creed-Mirage-First-Gameplay-Leaks-Appear-Online-Watch-Here-scaled.webp?fit=2560%2C1440&ssl=1",
+                "img3": "https://media.nichegamer.com/wp-content/uploads/2023/05/assassins-creed-mirage-05-24-23-1-scaled.jpg"
             }
         },
         {
@@ -266,6 +341,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$199"
+            },
+            "gallery": {
+                "img1": "https://whatifgaming.com/wp-content/uploads/2023/05/Lords-of-the-Fallen-scaled.jpg",
+                "img2": "https://a-static.besthdwallpaper.com/lords-of-the-fallen-battle-with-monster-wallpaper-2560x1440-24487_51.jpg",
+                "img3": "https://www.dsogaming.com/wp-content/uploads/2023/02/The-Lords-of-the-Fallen-new-screenshots-3-scaled.jpg"
             }
         },
         {
@@ -283,6 +363,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$180"
+            },
+            "gallery": {
+                "img1": "https://blog.playstation.com/tachyon/2022/08/ae465fda0eaa2b56b2691c36f3e531fdfb6cea23-scaled.jpg",
+                "img2": "https://m.media-amazon.com/images/I/81c9SQulkNL.jpg",
+                "img3": "https://media.formula1.com/image/upload/content/dam/fom-website/manual/Misc/2022manual/2022Races/AzerbaijanGP/Saturday/StrategyGuide/Header%20BAKU.jpg"
             }
         },
         {
@@ -300,6 +385,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$170"
+            },
+            "gallery": {
+                "img1": "https://cdn.wccftech.com/wp-content/uploads/2022/10/alan-wake-2-HD-scaled.jpg",
+                "img2": "https://www.thexboxhub.com/wp-content/uploads/2023/05/alan-wake-2-screen-scaled.jpg",
+                "img3": "https://pbs.twimg.com/media/Fw7qAWJXgAAWlq8?format=jpg&name=4096x4096"
             }
         },
         {
@@ -317,6 +407,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$27.99"
+            },
+            "gallery": {
+                "img1": "https://whatifgaming.com/wp-content/uploads/2023/06/Remnant-2-Screen-scaled.jpg",
+                "img2": "https://cdn.checkpointgaming.net/wp-content/uploads/2023/07/27190606/remnant-2-1-64873a5681ec6-scaled.jpg",
+                "img3": "https://www.playstationcountry.com/wordpress/wp-content/uploads/2020/09/Remnant_-From-the-Ashes_20200831212347-scaled.jpg"
             }
         },
         {
@@ -334,6 +429,11 @@
                 "sale": null,
                 "old": null,
                 "new": "Free"
+            },
+            "gallery": {
+                "img1": "https://img2.wallspic.com/crops/4/2/8/8/4/148824/148824-leisure-nature-mountain-fortnite-epic_games-2560x1440.jpg",
+                "img2": "https://cdn.wccftech.com/wp-content/uploads/2017/06/BoB_combatShot_var2-scaled.jpg",
+                "img3": "https://cdn.wallpapersafari.com/61/4/WQogZI.jpg"
             }
         },
         {
@@ -351,6 +451,11 @@
                 "sale": null,
                 "old": null,
                 "new": "Free"
+            },
+            "gallery": {
+                "img1": "https://frontofficesports.com/wp-content/uploads/2020/06/Beta-Key-Art_VALORANT-scaled.jpg",
+                "img2": "https://cdn.wccftech.com/wp-content/uploads/2020/06/FirstLook_Dragon_VALORANT-scaled.jpg",
+                "img3": "https://thenerdmag.com/wp-content/uploads/2020/06/Valorant-Online-Gameplay-Screenshot.png"
             }
         },
         {
@@ -368,6 +473,11 @@
                 "sale": null,
                 "old": null,
                 "new": "Free"
+            },
+            "gallery": {
+                "img1": "https://wfc.cdn.gmru.net/ms/088d04dfc4a4d6233b3bf77fd2931ec7.jpg",
+                "img2": "https://preview.redd.it/n4hw2h4aa5m31.jpg?width=2560&format=pjpg&auto=webp&s=a66ede028255ee50ef48923be4d55ebc58d1878b",
+                "img3": "https://cdn2.unrealengine.com/new-warface-season-origins-2560x1440-ddc17fedb947.jpg"
             }
         },
         {
@@ -385,6 +495,11 @@
                 "sale": "85%",
                 "old": "$189",
                 "new": "$28.35"
+            },
+            "gallery": {
+                "img1": "https://pbs.twimg.com/media/FtsKPhhWAAA37c7?format=jpg&name=4096x4096",
+                "img2": "https://eip.gg/wp-content/uploads/2023/03/Dead-by-Daylight-Dev-Update-March-news-featured-image-v2.png",
+                "img3": "https://publish.one37pm.net/wp-content/uploads/2022/05/evil-dead-game-twitter.jpg"
             }
         },
         {
@@ -402,6 +517,11 @@
                 "sale": "70%",
                 "old": "$123.99",
                 "new": "$37.19"
+            },
+            "gallery": {
+                "img1": "https://images.hdqwalls.com/download/control-game-4k-2020-if-2560x1440.jpg",
+                "img2": "https://images.wallpapersden.com/image/download/control-game-2021_bGtmZWeUmZqaraWkpJRnamtlrWZpaWU.jpg",
+                "img3": "https://storage.googleapis.com/stateless-gstylemag-com/2023/01/ad7537a0-geforcenow-2023-01-19-01-42-23-501.jpg"
             }
         },
         {
@@ -419,6 +539,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$61.99"
+            },
+            "gallery": {
+                "img1": "https://whatifgaming.com/wp-content/uploads/2022/01/Rainbow-Six-Extraction-2-scaled.jpg",
+                "img2": "https://i.redd.it/i8ne5apt5dnz.jpg",
+                "img3": "https://external-preview.redd.it/the-worst-lag-ive-ever-seen-on-siege-v0-IB76l7T19Z5xvzC-_ojaEY8W_ApwhZPsdhyPN48uTcU.png?format=pjpg&auto=webp&s=98493718877152dac2dc6bb4a83010df201f49a6"
             }
         },
         {
@@ -436,6 +561,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$213.99"
+            },
+            "gallery": {
+                "img1": "https://cdn.wccftech.com/wp-content/uploads/2020/06/Cyberpunk-2077-Jun-25th-Screenshots-4.jpg",
+                "img2": "https://twistedvoxel.com/wp-content/uploads/2019/06/cyberpunk-2077-image-2.png",
+                "img3": "https://www.kotaku.com.au/wp-content/uploads/2020/12/07/cyberpunk-2077-review-night-city-wire-1-scaled.jpg?quality=75"
             }
         },
         {
@@ -453,6 +583,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$190"
+            },
+            "gallery": {
+                "img1": "https://overclock3d.net/gfx/articles/2018/09/16132209566l.jpg",
+                "img2": "https://www.insidesport.in/wp-content/uploads/2021/12/R1XMUarRCnZ5g9h7iXrFvNdM-scaled.webp",
+                "img3": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6042335/2016-02-11_00003.jpg"
             }
         },
         {
@@ -470,6 +605,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$249"
+            },
+            "gallery": {
+                "img1": "https://insomniac.games/wp-content/uploads/2022/06/MSMR_PC_Launch_4k_Rhino_Legal-scaled.jpg",
+                "img2": "https://static.fanbyte.com/uploads/2022/08/Spider-Man-PC-080922-4K-Screenshot-02-scaled.jpg",
+                "img3": "https://www.videogameschronicle.com/files/2020/11/MilesMorales_PS5_Standoff_Legal-scaled.jpg"
             }
         },
         {
@@ -487,6 +627,11 @@
                 "sale": null,
                 "old": null,
                 "new": "$122.99"
+            },
+            "gallery": {
+                "img1": "https://external-preview.redd.it/vif5xAckkj30m3GngaZwTGTlZMIi8-K37nhF6o3nnG0.jpg?auto=webp&s=207ea749ef7b403a6adb5c44e2ef575df258da13",
+                "img2": "https://preview.redd.it/f3wenebnue451.png?auto=webp&s=07dcb1c498b494dcde73edc3de554fb7747acc48",
+                "img3": "https://images.hdqwalls.com/download/the-witcher-3-wild-hunt-game-2560x1440.jpg"
             }
         },
         {
@@ -504,6 +649,11 @@
                 "sale": "75%",
                 "old": "$189",
                 "new": "$47.25"
+            },
+            "gallery": {
+                "img1": "https://exputer.com/wp-content/uploads/2021/08/Grand-Theft-Auto-V-Source-Steam-scaled.jpg",
+                "img2": "https://preview.redd.it/found-out-this-trash-i-won-in-the-casino-a-long-time-ago-is-v0-6wds7w7tpse81.jpg?auto=webp&s=2690d95fd9554b6b692f4e43f506744e9385b05a",
+                "img3": "https://preview.redd.it/mk3ws4w0ulm81.png?width=2560&format=png&auto=webp&s=80fe3d7fd18ceb66658670175251eaae6bd65585"
             }
         },
         {
@@ -521,6 +671,11 @@
                 "sale": "90%",
                 "old": "$40.99",
                 "new": "$4.09"
+            },
+            "gallery": {
+                "img1": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fpetunia%2Fhome%2FM2033_Carousel_01-2580x1450-0f3adddf2d036737596bb3542bd07e49a3502bb0.jpg",
+                "img2": "https://calltoreason.org/wp-content/uploads/2021/05/metro-2021-05-03-23-36-35-75.jpg",
+                "img3": "https://calltoreason.org/wp-content/uploads/2021/05/metro-2021-05-09-14-32-10-40.jpg"
             }
         }
     ]
