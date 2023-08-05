@@ -8,6 +8,7 @@
             "title": "Assassin's Creed® Valhalla",
             "devs": "Ubisoft Montreal",
             "publisher": "Ubisoft",
+            "genre": "Action, RPG",
             "release": "11/17/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -24,6 +25,7 @@
             "title": "Red Dead Redemption 2",
             "devs": "Rockstar Games",
             "publisher": "Rockstar Games",
+            "genre": "Action, Narration",
             "release": "11/05/19",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -40,6 +42,7 @@
             "title": "STAR WARS Jedi: Survivor™",
             "devs": "Respawn Entertainment",
             "publisher": "Electronic Arts",
+            "genre": "Action, Adventure",
             "release": "04/28/23",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -56,6 +59,7 @@
             "title": "Dying Light 2 Stay Human",
             "devs": "Techland",
             "publisher": "Techland",
+            "genre": "Action, First Person",
             "release": "02/04/22",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -72,6 +76,7 @@
             "title": "Far Cry® 6",
             "devs": "Ubisoft Toronto",
             "publisher": "Ubisoft",
+            "genre": "Action, Adventure",
             "release": "11/29/22",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -88,6 +93,7 @@
             "title": "Watch Dogs: Legion",
             "devs": "Ubisoft Toronto",
             "publisher": "Ubisoft",
+            "genre": "Action, Adventure",
             "release": "10/29/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -104,6 +110,7 @@
             "title": "Saints Row",
             "devs": "Deep Silver Volition",
             "publisher": "Deep Silver",
+            "genre": "Action, Shooter",
             "release": "08/23/22",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -120,6 +127,7 @@
             "title": "Football Manager 2021",
             "devs": "Sports Interactive",
             "publisher": "SEGA of Europe",
+            "genre": "Simulation",
             "release": "11/24/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -136,6 +144,7 @@
             "title": "Far Cry® 6",
             "devs": "Ubisoft Toronto",
             "publisher": "Ubisoft",
+            "genre": "Action, Adventure",
             "release": "11/29/22",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -152,6 +161,7 @@
             "title": "Battlefield™ 2042",
             "devs": "DICE",
             "publisher": "Electronic Arts",
+            "genre": "First Person, Shooter",
             "release": "11/19/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -168,6 +178,7 @@
             "title": "STAR WARS™ Battlefront™ II",
             "devs": "DICE",
             "publisher": "Electronic Arts",
+            "genre": "Action, Adventure",
             "release": "01/15/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -184,6 +195,7 @@
             "title": "Borderlands 3",
             "devs": "Gearbox Software",
             "publisher": "2K",
+            "genre": "First Person, Shooter",
             "release": "09/13/19",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -198,6 +210,7 @@
             "title": "STAR WARS™ Battlefront™",
             "devs": "DICE",
             "publisher": "Electronic Arts",
+            "genre": "Action, Adventure",
             "release": "01/15/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -212,6 +225,7 @@
             "title": "Mortal Kombat 1",
             "devs": "NetherRealm Studios",
             "publisher": "Warner Bros. Games",
+            "genre": "Action, Fighting",
             "release": "09/20/23",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -228,6 +242,7 @@
             "title": "Assassin's Creed® Mirage",
             "devs": "Ubisoft Montreal",
             "publisher": "Ubisoft",
+            "genre": "Action, Adventure",
             "release": "10/12/23",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -244,6 +259,7 @@
             "title": "Lords of the Fallen",
             "devs": "HEXWORKS",
             "publisher": "CI Games",
+            "genre": "Action, RPG",
             "release": "10/13/23",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -260,6 +276,7 @@
             "title": "F1® Manager 2023",
             "devs": "Frontier Developments",
             "publisher": "Frontier Developments",
+            "genre": "Simulation, Strategy",
             "release": "07/31/23",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -276,6 +293,7 @@
             "title": "Alan Wake 2",
             "devs": "Remedy Entertainment",
             "publisher": "Epic Games Publishing",
+            "genre": "Horror, Shooter",
             "release": "10/18/23",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -292,6 +310,7 @@
             "title": "Remnant: From the Ashes",
             "devs": "Gunfire Games",
             "publisher": "Gearbox Publishing",
+            "genre": "Action, Shooter",
             "release": "08/13/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -308,6 +327,7 @@
             "title": "Fortnite",
             "devs": "Epic Games",
             "publisher": "Epic Games",
+            "genre": "Action, Shooter",
             "release": "07/21/17",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -324,6 +344,7 @@
             "title": "VALORANT",
             "devs": "Riot Games",
             "publisher": "Riot Games",
+            "genre": "Action, Shooter",
             "release": "11/05/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -340,6 +361,7 @@
             "title": "Warface",
             "devs": "Allods Team",
             "publisher": "MY.GAMES",
+            "genre": "Action, Shooter",
             "release": "06/29/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -356,6 +378,7 @@
             "title": "Dead by Daylight",
             "devs": "Behaviour Interactive",
             "publisher": "Behaviour Interactive",
+            "genre": "Action, Survival",
             "release": "12/10/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -372,6 +395,7 @@
             "title": "Control",
             "devs": "Remedy Entertainment",
             "publisher": "505 Games",
+            "genre": "Action, Adventure",
             "release": "08/27/19",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -388,6 +412,7 @@
             "title": "Rainbow Six Siege",
             "devs": "Ubisoft",
             "publisher": "Ubisoft",
+            "genre": "Action, Shooter",
             "release": "12/02/22",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -404,6 +429,7 @@
             "title": "Cyberpunk 2077",
             "devs": "CD PROJEKT RED",
             "publisher": "CD PROJEKT RED",
+            "genre": "Action, Adventure",
             "release": "12/10/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -419,6 +445,7 @@
             "poster2": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S2_1200x1600-a73f93bb560142e08d56db4c2bfdb03c",
             "title": "Rise of the Tomb Raider",
             "devs": "Crystal Dynamics",
+            "genre": "Action, Adventure",
             "publisher": "Square Enix",
             "release": "10/18/21",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
@@ -436,6 +463,7 @@
             "title": "Marvel's Spider-Man Remastered",
             "devs": "Insomniac Games",
             "publisher": "PlayStation PC LLC",
+            "genre": "Action, Adventure",
             "release": "08/12/22",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -452,6 +480,7 @@
             "title": "The Witcher 3: Wild Hunt",
             "devs": "CD PROJEKT RED",
             "publisher": "CD PROJEKT S.A.",
+            "genre": "Adventure, Fantasy",
             "release": "05/14/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -468,6 +497,7 @@
             "title": "Grand Theft Auto V",
             "devs": "Rockstar Games",
             "publisher": "Rockstar Games",
+            "genre": "Action, Adventure",
             "release": "05/14/20",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
@@ -484,6 +514,7 @@
             "title": "Metro: 2033 Redux",
             "devs": "4A Games",
             "publisher": "Deep Silver",
+            "genre": "First Person, Shooter",
             "release": "03/16/10",
             "platform": "https://cdn-icons-png.flaticon.com/512/154/154872.png",
             "price": {
