@@ -36,4 +36,4 @@ API-based repository, built by JSON Server, NPM and hosted by using Render as an
 ## Links
 * [API](https://games-api-m8ak.onrender.com/games)
 * [Media files resource](https://store.epicgames.com/en-US/)
-* [Redner](https://render.com/)
+* [Render](https://render.com/)
