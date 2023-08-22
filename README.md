@@ -1,1 +1,1 @@
-# web-store's API
+# web-store-api
