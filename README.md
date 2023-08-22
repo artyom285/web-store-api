@@ -32,3 +32,8 @@ API-based repository, built by JSON Server, NPM and hosted by using Render as an
 * The Witcher 3: Wild Hunt
 * Grand Theft Auto V
 * Metro: 2033 Redux
+
+## Links
+* [API](https://games-api-m8ak.onrender.com/games)
+* [Media files resource](https://store.epicgames.com/en-US/)
+* [Redner](https://render.com/)
